@@ -5,8 +5,8 @@ Steps to run the Web Application, Friend_Affinity_Finder:
      <b>AddHandler cgi-script .cgi .py<br>
      Options Indexes FollowSymLinks ExecCGI</b> <br>
      This enables the Python CGI for Back-End Development
-  3. Download the application file, friend_affinity_finder.zip and extract its contents in the www folder under wamp which will be
-     installed in the path mentioned during installation
-  4. Go to a web browser and type "localhost/friend_affinity_finder" and press Enter
+  3. Download the application file, <b>friend_affinity_finder.zip</b> and extract its contents in the <b>www</b> folder inside <b>wamp</b>
+     which will be installed in the path mentioned during installation
+  4. Go to a web browser and type <b>localhost/friend_affinity_finder</b> and press Enter
    
   
