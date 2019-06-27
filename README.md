@@ -8,6 +8,10 @@ Steps to run the Web Application, Friend_Affinity_Finder:
      This enables the Python CGI for Back-End Development
   3. Download the application file, <b>friend_affinity_finder.zip</b> and extract its contents in the <b>www</b> folder inside <b>wamp</b>
      which will be installed in the path mentioned during installation
-  4. Go to a web browser and type <b>localhost/friend_affinity_finder</b> in the Address Bar and press Enter
+  4. In the .py files: /go/register.py, /go/login.py and /display/run.py, change the path of python.exe at the very beginning of the files
+     as:
+     <b>#!<PATH></b>
+     By default <PATH> is given as <b>C:\Users\USER\AppData\Local\Programs\Python\Python37\python.exe</b>
+  5. Go to a web browser and type <b>localhost/friend_affinity_finder</b> in the Address Bar and press Enter
    
   
